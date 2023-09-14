@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Web 3.0**
+- 👯 I’m looking to collaborate on **Web 3.0** projects
 
 - 💬 Ask me about **Solidity, Rust & blockchain**
 
+- 🤖 Welcome to all **Web 3.0 enthusiasts** 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/K1297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K1297" height="30" width="40" /></a>
+<a href="https://discord.gg/k_k0068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K1297" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
