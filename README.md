@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal sapra</h1>
 <h3 align="center">A passionate blockchain developer</h3>
 
-- 🔭 I’m currently working on [TaleBlox](https://taleblox.vercel.app/)
+- 🔭 I’m currently working on [BitLogix](https://bitlogix.vercel.app/)
 
 - 🌱 I’m currently learning **React**
 
