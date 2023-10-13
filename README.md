@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BitLogix](https://bitlogix.vercel.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Next.js & Tenderly**
 
 - 👯 I’m looking to collaborate on **Web 3.0** projects
 
