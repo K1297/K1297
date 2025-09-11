@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal sapra</h1>
 <h3 align="center">A passionate blockchain developer</h3>
 
-- 🔭 I’m currently working on **Memegraveyard**
+- 🔭 I’m currently working on **Spectra**
 
 - 🌱 I’m currently learning **React, Next.js & Tenderly**
 
