@@ -8,11 +8,11 @@
 
 ### What I'm up to
 
-- ðŸ”­ I'm currently working on **[MindMesh](https://github.com/K1297/mindmesh)**
-- ðŸ‘¯ I'm looking to collaborate on **[Web 3.0 projects](https://github.com/K1297)**
-- ðŸŒ± I'm currently learning **React, Next.js & Tenderly**
-- ðŸ’¬ Ask me about **Solidity, Rust & blockchain**
-- ðŸ“« How to reach me **kushalsapra07@gmail.com**
+- ­ I'm currently working on **[MindMesh](https://github.com/K1297/mindmesh)**
+-  I'm looking to collaborate on **[Web 3.0 projects](https://github.com/K1297)**
+-  I'm currently learning **React, Next.js & Tenderly**
+-  Ask me about **Solidity, Rust & blockchain**
+-  How to reach me **kushalsapra07@gmail.com**
 
 ### Tech Stack
 
