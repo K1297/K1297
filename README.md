@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### ðŸ”­ What I'm up to
+### What I'm up to
 
 - ðŸ”­ I'm currently working on **[MindMesh](https://github.com/K1297/mindmesh)**
 - ðŸ‘¯ I'm looking to collaborate on **[Web 3.0 projects](https://github.com/K1297)**
@@ -14,7 +14,7 @@
 - ðŸ’¬ Ask me about **Solidity, Rust & blockchain**
 - ðŸ“« How to reach me **kushalsapra07@gmail.com**
 
-### ðŸ› ï¸ Tech Stack
+### Tech Stack
 
 <p align="left">
   <a href="">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-### ðŸ¤ Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://twitter.com/kushalsapra07">
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-### ðŸ“Š GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=K1297&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
