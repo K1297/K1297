@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/K1297">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Blockchain%20developer;Blockchain%20developer%20crafting%20secure%20solutions%20with%20a%20focus%20on%20innovation%20and%20positive%20change;Welcome%20to%20all%20Web%203.0%20enthusiasts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Blockchain%20developer;Welcome%20to%20all%20Web%203.0%20enthusiasts" alt="Typing SVG" />
   </a>
 </p>
 
